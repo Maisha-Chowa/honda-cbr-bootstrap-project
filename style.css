@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Header{
+    background-color:  #264653;
+
+}
+.GrayScale{
+    filter: grayscale(100%);
+}
